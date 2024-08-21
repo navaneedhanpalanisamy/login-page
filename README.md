@@ -16,7 +16,7 @@
 2. *Backend (Flask Application):*
    - Install Flask: pip install flask
    - Run the Flask app: python app.py
-   - Access the application at http://127.0.0.1:5000/login.
+   - Access the application at https://127.0.0.1:5000/login.
 
 ## Input Validation
 - *Username:* Must be at least 5 characters long.
